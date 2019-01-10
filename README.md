@@ -15,7 +15,7 @@
       4. [eject](#eject)
 
 ## Introduction to React
-React is a javascript library for building component-based user interfaces.
+React is a javascript library for building component-based user interfaces. [More Details](training/Introduction.md)
 
 ## Prerequisites
 Before getting started with React, there are a few technologies one might need to be familiar with.
